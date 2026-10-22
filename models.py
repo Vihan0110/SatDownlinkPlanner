@@ -2,6 +2,7 @@
 from abc import ABC, abstractmethod
 
 
+
 class PacketError(Exception):
     """Raised when the size or urgency is wrong."""
 
