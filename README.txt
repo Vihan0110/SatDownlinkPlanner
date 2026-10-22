@@ -1,6 +1,6 @@
 # 🛰️ Satellite Downlink Planner
 
-A Python-based simulation of satellite communication downlinks, packet prioritization, and ground-pass transmission management, featuring a desktop application, SQLite database, and mission-report dashboard.
+A Python-based simulation of satellite communication downlinks, packet prioritization, and ground-pass transmission management,featuring a desktop application, SQLite database, and mission-report dashboard.
 
 **Developed by:** Vihan Joshi  
 **Technology:** Python · SQLite · Tkinter · HTML · CSS  
