@@ -1,4 +1,5 @@
 """Builds the SomaiyaSat read-only mission report from SQLite data."""
+
 import html
 import os
 import webbrowser
